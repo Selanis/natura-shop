@@ -1,3 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+@font-face {
+  font-family: 'LiteratureDecor';
+  src: url('./assets/fonts/Literature-Decor.ttf');
+}
+
+h1 {
+  font-family: 'LiteratureDecor';
+  font-size: 70px;
+  color: #628871;
+  font-weight: 300;
+}
+
+h2 {
+  font-family: 'LiteratureDecor';
+  font-size: 40px;
+  color: #628871;
+  font-weight: 300;
+}
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

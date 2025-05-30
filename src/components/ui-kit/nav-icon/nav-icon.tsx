@@ -9,8 +9,8 @@ type TPropsType = {
 
 export const NavIcon: FunctionComponent<TPropsType> = ({ icon, text }) => {
     return (
-        <div>
-            <img src={icon} alt='icon' />
+        <div className={styles.navIcon}>
+            <img src={icon} width={34} alt='icon' />
             <h4>{text}</h4>
         </div>
     )

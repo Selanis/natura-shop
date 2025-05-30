@@ -1,0 +1,40 @@
+
+
+.mainContainer {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    gap: 60px;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 1500px;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+
+.main_textContainer {
+    display: flex;
+    flex-direction: column;
+    max-width: 611px;
+    width: 100%;
+    gap: 75px;
+}
+
+.main_textContainer_article {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    max-width: 611px;
+    width: 100%;
+}
+
+.main_textContainer_article h3 {
+    max-width: 484px;
+}

@@ -5,11 +5,17 @@
   src: url('./assets/fonts/Literature-Decor.ttf');
 }
 
+*:link {
+    text-decoration: none;
+}
+
+
 h1 {
   font-family: 'LiteratureDecor';
   font-size: 70px;
   color: #628871;
-  font-weight: 300;
+  /* font-weight: 300; */
+  font-weight: lighter;
 }
 
 h2 {
@@ -17,6 +23,32 @@ h2 {
   font-size: 40px;
   color: #628871;
   font-weight: 300;
+}
+
+h3 {
+  font-family: 'Rubik';
+  font-weight: 400;
+  color: #383838;
+  font-size: 24px;
+}
+
+h4 {
+  font-family: "Rubik";
+  font-weight: 400;
+  color: #383838;
+  font-size: 18px;
+}
+
+li {
+  font-family: "Rubik";
+  font-weight: 400;
+  color: #383838;
+  font-size: 24px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
 }
 
 

@@ -1,0 +1,35 @@
+
+.addToCartButton {
+    width: 100%;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 25px;
+    padding-left: 25px;
+
+    background-color: #628871;
+    color: #C3E27D;
+    
+    font-family: 'Rubik';
+    font-weight: 500;
+    font-size: 20px;
+
+    border: none;
+    border-radius: 12px;
+
+    cursor: pointer;
+}
+
+.addToCartDiv {
+    display: flex;
+    flex-direction: row;
+    gap: 13px;
+}
+
+.addToCartDiv button:not(.addToCartButton) {
+    width: 68px;
+
+    border: none;
+    background: none;
+
+    cursor: pointer;
+}

@@ -1,0 +1,19 @@
+.filterButton {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 20px;
+    padding-left: 20px;
+    width: fit-content;
+
+    border-bottom: 1px solid #32253F;
+
+    font-family: 'Rubik';
+    font-size: 20px;
+
+    cursor: pointer;
+}
+
+.active {
+    border: none;
+    background-color: #C4CA8E;
+}

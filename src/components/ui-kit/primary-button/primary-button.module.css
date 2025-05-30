@@ -1,0 +1,19 @@
+.primaryButton {
+    font-size: 22px;
+    font-family: 'Rubik';
+    font-weight: 500;
+
+    background: linear-gradient(to bottom right, #95c8b7 0%, #c4ca8e 100%);
+    color: #FFFFFF;
+
+    width: fit-content;
+    padding-top: 16px;
+    padding-right: 47px;
+    padding-left: 47px;
+    padding-bottom: 16px;
+
+    border: none;
+    border-radius: 20px;
+
+    cursor: pointer;
+}

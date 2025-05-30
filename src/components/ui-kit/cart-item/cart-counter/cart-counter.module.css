@@ -1,0 +1,27 @@
+.cartCounter {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 16px;
+
+    background: linear-gradient(to bottom right, #95c8b7 0%, #c4ca8e 100%);
+
+    padding-top: 5px;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-bottom: 5px;
+
+    border-radius: 12px;
+}
+
+.cartCounter button {
+    border: none;
+    background: none;
+
+    cursor: pointer;
+}
+
+.cartCounter p {
+    font-weight: 400;
+    font-size: 20px;
+}

@@ -1,0 +1,25 @@
+.navigation {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    max-width: 1500px;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.navigation_anchors {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    max-width: 510px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.navigation_profileLinks {
+    display: flex;
+    flex-direction: row;
+    gap: 34px;
+}

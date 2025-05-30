@@ -1,0 +1,26 @@
+.catalog {
+    max-width: 1501px;
+}
+
+.catalog h2 {
+    text-align: center;
+}
+
+.catalog_filterTabs {
+    display: flex;
+    flex-direction: row;
+    padding-left: 19px;
+    padding-right: 19px;
+    width: fit-content;
+    gap: 27px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.catalog_products {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    flex-wrap: wrap;
+    margin-top: 34px;
+}

@@ -1,0 +1,57 @@
+{
+"products": [
+    {
+        "category": "coloring",
+        "realGroupUrl": "https://www.cosmedel.ru/shop/filter/mlk_brand-is-nishlady/apply/?PAGEN_2=",
+        "sku": "NISL00019",
+        "name": "Бессульфатный шампунь для вьющихся волос «Манифест локонов», 503 мл",
+        "brandName": "NISHLADY",
+        "image": "https://www.cosmedel.ru/upload/iblock/fe0/38hkzvnkjtoe3lehxzelegnfczrdswvm.jpg",
+        "description": "Бессульфатный шампунь разработан для вьющихся и непослушных волос. Придает волосам «Anti Frizz» эффект, питает, увлажняет волосы и кожу головы.\n\nИдеально в сочетании с кондиционером для вьющихся волос.",
+        "price": "1943"
+    },
+    {
+        "category": "makeup",
+        "realGroupUrl": "https://www.cosmedel.ru/shop/filter/mlk_brand-is-physicians_formula/apply/?PAGEN_2=",
+        "sku": "PF1711948E",
+        "name": "Блеск для губ, увеличивающий объем Diamond Glow Lip Plumper, тон: бриллиант маркизы, 5 мл",
+        "brandName": "PHYSICIANS FORMULA",
+        "image": "https://www.cosmedel.ru/upload/iblock/f76/p5lcodb8sc8vn2tve7t5579etk14wn9z.jpg",
+        "description": "Больше, чем просто блеск для губ - это ультра увлажняющий гибридный блеск-сыворотка, который активно питает губы, делает их более пухлыми и нежными. Настоящая алмазная пыль, придает губам многогранное сияние. Сделайте вашу улыбку ослепительно роскошной одним движением! \n\nНе содержит глютен и парабены. Не тестируется на животных.",
+        "price": "1810",
+        "priceCrossedOut": "2081"
+    },
+    {
+        "category": "body",
+        "realGroupUrl": "https://www.cosmedel.ru/shop/filter/mlk_brand-is-bio-oil/apply/?PAGEN_2=",
+        "sku": "8596",
+        "name": "Гель для сухой кожи, 50 мл",
+        "brandName": "BIO-OIL",
+        "image": "https://www.cosmedel.ru/upload/iblock/004/d3q3y1u3lspx6iinstbwru3mz2vfr044.jpg",
+        "description": "Bio-Oil® гель для сухой кожи – это следующее поколение средств для ухода за сухой кожей. В составе геля глицерин, ланолин, мочевина, экстракты растений – лаванды, ромашки, календулы и розмарина. И всего 3% воды!",
+        "price": "697",
+        "priceCrossedOut": "820"
+    },
+    {
+        "category": "hygiene",
+        "realGroupUrl": "https://www.cosmedel.ru/shop/filter/mlk_brand-is-patyka/apply/?PAGEN_2=",
+        "sku": "P1551",
+        "name": "Крем для рук и ногтей, 40 мл",
+        "brandName": "PATYKA",
+        "image": "https://www.cosmedel.ru/upload/iblock/2fc/ysb062bnvwjdtq274wuby1qx0d44st1a.jpg",
+        "description": "Крем для рук и ногтей интенсивно питает и восстанавливает сухие и поврежденные руки, защищает от холода и устраняет дискомфорт. Его кремовая текстура быстро впитывается, не оставляя жирного блеска.\n\nРуки окутывает защитная и восстанавливающая вуаль с нежным цветочно-ванильным ароматом, они становятся невероятно мягкими. Подойдет для всех типов кожи, но идеален для сухой и поврежденной кожи рук.\n\nПротестировано под дерматологическим контролем.",
+        "price": "848",
+        "priceCrossedOut": "1060"
+    },
+    {
+        "category": "makeup",
+        "realGroupUrl": "https://www.cosmedel.ru/shop/filter/mlk_brand-is-physicians_formula/apply/?PAGEN_2=",
+        "sku": "PF7040EH",
+        "name": "Минеральная пудра-хайлайтер Powder Palette Mineral Glow Pearls Powder, прозрачная, 8 г",
+        "brandName": "PHYSICIANS FORMULA",
+        "image": "https://www.cosmedel.ru/upload/iblock/0c7/itiy20w6cqezzks8ufx8jjyv4fkcar5d.jpg",
+        "description": "Уникальная пудра-хайлайтер на основе минерального экстракта жемчуга для создания мгновенного перламутрового сияния. Вы можете ее использовать ее как хайлайтер для высветления определённых зон, так и на всё лицо для достижения сияющего образа.\n\nМинеральный экстракт жемчуга придает эффект роскошной совершенной кожи: благодаря сияющему финишу несовершенства стираются, лицо обретает безупречное свечение молодой кожи. Оказывает антиоксидантное действие и скрывает несовершенства кожи.\n\nКомпактная упаковка содержит встроенные зеркало и кисть.",
+        "price": "2399",
+        "priceCrossedOut": "2636"
+    }
+]}

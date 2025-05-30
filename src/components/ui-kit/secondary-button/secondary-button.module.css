@@ -1,0 +1,40 @@
+
+.secondaryButton {
+    width: fit-content;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 47px;
+    padding-left: 47px;
+
+    background-color: #628871;
+    color: #C3E27D;
+    
+    font-family: 'Rubik';
+    font-weight: 500;
+    font-size: 20px;
+
+    border: none;
+    border-radius: 12px;
+
+    cursor: pointer;
+}
+
+.secondaryButton_InOrder {
+    width: fit-content;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 47px;
+    padding-left: 47px;
+
+    background-color: #D8F0DC;
+    color: #628871;
+    
+    font-family: 'Rubik';
+    font-weight: 500;
+    font-size: 20px;
+
+    border: none;
+    border-radius: 12px;
+
+    cursor: pointer;
+}

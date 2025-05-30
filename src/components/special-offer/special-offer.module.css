@@ -1,0 +1,17 @@
+.specialOffer {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+}
+
+.specialOffer h2 {
+    text-align: center;
+}
+
+.specialOffer_goods {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    flex-wrap: wrap;
+}

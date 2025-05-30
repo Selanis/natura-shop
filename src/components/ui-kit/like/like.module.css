@@ -1,0 +1,16 @@
+
+.likeButton {
+    padding-top: 13px;
+    padding-right: 11px;
+    padding-bottom: 11px;
+    padding-left: 11px;
+
+    max-height: 43px;
+
+    background-color: white;
+
+    border: none;
+    border-radius: 50%;
+
+    cursor: pointer;
+}

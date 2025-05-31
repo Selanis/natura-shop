@@ -3,29 +3,7 @@ import styles from './product.module.css';
 import { Link, useParams } from 'react-router';
 import { SecondaryButton } from '../ui-kit/secondary-button/secondary-button';
 import { useSelector } from '../../utils/hooks';
-import { AddToCartButton } from '../ui-kit/product-card/add-to-cart-button/add-to-cart-button';
 
-// const product = {
-//     category: "coloring",
-//     realGroupUrl: "https://www.cosmedel.ru/shop/filter/mlk_brand-is-nishlady/apply/?PAGEN_2=",
-//     sku: "NISL00019",
-//     name: "Бессульфатный шампунь для вьющихся волос «Манифест локонов», 503 мл",
-//     brandName: "NISHLADY",
-//     image: "https://www.cosmedel.ru/upload/iblock/fe0/38hkzvnkjtoe3lehxzelegnfczrdswvm.jpg",
-//     description: "Бессульфатный шампунь разработан для вьющихся и непослушных волос. Придает волосам «Anti Frizz» эффект, питает, увлажняет волосы и кожу головы.\n\nИдеально в сочетании с кондиционером для вьющихся волос.",
-//     price: "1943",
-//     priceCrossedOut: "2043",
-//     variants: [
-//         {
-//             color: "#FFA9A9",
-//             sku: "666"
-//         }, 
-//         {
-//             color: "#C86060",
-//             sku: "555"
-//         }, 
-//     ]
-// }
 
 export const Product: FunctionComponent = () => {
     const { id } = useParams();

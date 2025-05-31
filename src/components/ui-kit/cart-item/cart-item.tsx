@@ -34,7 +34,7 @@ export const CartItem: FunctionComponent<TPropsType> = ({ sku, count }) => {
                     <Link to={{
                         pathname: `/product/${sku}`
                     }}>
-                        <img src="./images/like-disabled.svg" alt="" />
+                        <img src="./images/like-disabled.svg" alt="like" />
                     </Link>
                 </div>
 

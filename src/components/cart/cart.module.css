@@ -96,3 +96,19 @@
     flex-direction: column;
     gap: 10px;
 }
+
+@media (max-width: 1000px) {
+    .cart_content {
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .cart_content form {
+        max-width: 270px;
+    }
+
+    .cart_content form input {
+        max-width: 247px;
+    }
+}

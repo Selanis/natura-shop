@@ -50,3 +50,14 @@
 .footer_info {
     max-width: 1500px;
 }
+
+@media (max-width: 800px) {
+    .footer_content ul {
+        display: none;
+    }
+
+    .footer_content {
+        flex-direction: column;
+        align-items: center;
+    }
+}

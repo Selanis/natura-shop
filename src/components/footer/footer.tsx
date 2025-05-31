@@ -1,11 +1,15 @@
-import { FunctionComponent } from 'react';
+import { FunctionComponent, RefObject } from 'react';
 import styles from './footer.module.css';
 import logo from './logo-dark.svg';
 
-export const Footer: FunctionComponent = () => {
+type TPropsType = {
+    componentRef: RefObject<null>;
+}
+
+export const Footer: FunctionComponent<TPropsType> = (props) => {
 
     return (
-        <footer className={ styles.footer }>
+        <footer className={ styles.footer } ref={props.componentRef}>
             <div className={ styles.footer_content }>
                 <img src={logo} alt="natura-shop" />
 

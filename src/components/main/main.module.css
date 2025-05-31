@@ -38,3 +38,48 @@
 .main_textContainer_article h3 {
     max-width: 484px;
 }
+
+.main>img {
+    width: 100%;
+    max-width: 750px;
+}
+
+.mainContainer>img {
+    width: 100%;
+    max-width: 1500px;
+}
+
+@media (max-width: 1350px) {
+    .main>img {
+        max-width: 500px;
+    }
+}
+
+@media (max-width: 1050px) {
+    .main {
+        flex-direction: column;
+        gap: 30px;
+
+        text-align: center;
+        
+    }
+
+    .main_textContainer_article  {
+        align-items: center;
+    }
+
+    .main_textContainer {
+        align-items: center;
+        gap: 20px;
+    }
+}
+
+@media (max-width: 620px) { 
+    h1 {
+        font-size: 40px;
+        max-width: 400px;
+    }
+    /* img {
+        display: none;
+    } */
+}

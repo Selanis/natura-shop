@@ -70,3 +70,29 @@
     align-items: end;
     gap: 20px;
 }
+
+@media (max-width: 641px) {
+    .cart_content {
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .cartItem_image {
+        width: 61px;
+        height: 52px;
+    }
+
+    .cartItem_info_name p {
+        font-family: 'Rubik';
+        font-size: 16px;
+    }
+
+    .cartItem {
+        max-width: 280px;
+    }
+
+    .cartItem_info_prices {
+        flex-direction: column;
+    }
+}

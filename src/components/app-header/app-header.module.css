@@ -18,8 +18,51 @@
     justify-content: space-between;
 }
 
+.navigation_anchors li {
+    cursor: pointer;
+}
+
 .navigation_profileLinks {
     display: flex;
     flex-direction: row;
     gap: 34px;
+}
+
+.navigation_burgerMenu {
+    display: none;
+}
+
+.burgerMenu {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    width: 100%;
+    list-style: none;
+}
+
+header>div {
+    display: flex;
+    justify-content: center;
+}
+
+.burgerMenu li {
+    padding-bottom: 5px;
+    border-bottom: 1px solid #32253F;
+    text-align: center;
+}
+
+@media (max-width: 1050px) {
+    .navigation_anchors {
+        display: none;
+    }
+
+    .navigation_profileLinks {
+        display: none;
+    }
+
+    .navigation_burgerMenu {
+        display: block;
+    }
+
 }

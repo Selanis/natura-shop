@@ -15,6 +15,7 @@
     gap: 27px;
     margin: 0 auto;
     margin-top: 20px;
+    flex-wrap: wrap;
 }
 
 .catalog_products {
@@ -23,4 +24,5 @@
     gap: 24px;
     flex-wrap: wrap;
     margin-top: 34px;
+    justify-content: center;
 }

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/natura-shop/static/css/main.0c4bd012.css",
-    "main.js": "/natura-shop/static/js/main.3a9a331b.js",
+    "main.js": "/natura-shop/static/js/main.e3e03211.js",
     "static/js/453.7860d6ec.chunk.js": "/natura-shop/static/js/453.7860d6ec.chunk.js",
     "static/media/Literature-Decor.ttf": "/natura-shop/static/media/Literature-Decor.3e683835fed624c02b43.ttf",
     "static/media/logo-dark.svg": "/natura-shop/static/media/logo-dark.c3c23b3382d501275bbd9dae183f3c94.svg",
@@ -12,11 +12,11 @@
     "static/media/heart.svg": "/natura-shop/static/media/heart.c6a4828d2b2bb547dc846c3e598ca777.svg",
     "static/media/burger_menu.svg": "/natura-shop/static/media/burger_menu.11e5290bbec9e25126b1ee41d6aca9c7.svg",
     "main.0c4bd012.css.map": "/natura-shop/static/css/main.0c4bd012.css.map",
-    "main.3a9a331b.js.map": "/natura-shop/static/js/main.3a9a331b.js.map",
+    "main.e3e03211.js.map": "/natura-shop/static/js/main.e3e03211.js.map",
     "453.7860d6ec.chunk.js.map": "/natura-shop/static/js/453.7860d6ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c4bd012.css",
-    "static/js/main.3a9a331b.js"
+    "static/js/main.e3e03211.js"
   ]
 }
